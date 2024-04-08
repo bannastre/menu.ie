@@ -1,36 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Menu.ie
 
-## Getting Started
+## A website that (probably) shows local take-away menus
 
-First, run the development server:
+### 1. Discovery
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This is the start of a new project idea. It comes from an observation that many local businesses -- particularly food businesses in Cork -- don't have a website. This does not present a problem in itself but for one specific occassion; pre-ordering food. 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Without a website, a potential customer must find a facebook page or instagram post of the details. 
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Facebook links are not accessible by everyone - I am not personally on  Facebook. 
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Instgram posts are often blurry photos, lost in the history.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+... 
